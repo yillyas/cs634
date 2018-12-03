@@ -1,0 +1,63 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.box {
+   width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+img {width: 100%}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.big-banner-album {
+    background-size: cover;
+    background-image: url('../images/albumBackground.jpg')
+}
+
+.big-banner-music {
+    background-size: cover;
+    background-image: url('../images/musicPageBackground.jpg')
+}
+
+.apple-icon {
+    margin-left: 50px;
+    padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+
+.spotify-icon {
+    padding: 10px;
+    width: 90px;
+    height: 45px;
+}
