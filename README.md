@@ -15,3 +15,6 @@ Start Bootstrap has a public Slack channel which is a great place to ask questio
 
 **[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
 
+## Reference
+
+[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
